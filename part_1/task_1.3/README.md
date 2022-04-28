@@ -1,4 +1,4 @@
-## Solution of task 1.2
+## Solution of task 1.3
 
 <img src="task_1.3.png" alt="cmd screenshot of task 1.3" />
 
