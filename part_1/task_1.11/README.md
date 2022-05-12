@@ -1,5 +1,3 @@
-# Simple button
-
 ## How to start
 
 Make sure you have java 8 installed
@@ -13,7 +11,7 @@ The project should open in `8080` and you get a message by pressing the button.
 ### Docker Build Command
 
 ```console
-docker build -t spring-project
+docker build . -t spring-project
 ```
 
 ### Docker Run Command
