@@ -1,6 +1,6 @@
 ## Solution of task 1.13
 
-### User commands
+### Used commands
 
 ```console
 docker build . -t hello-backend
